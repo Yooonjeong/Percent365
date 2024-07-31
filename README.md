@@ -103,7 +103,10 @@ BE
 <br>
 
 # ERD 및  와이어프레임
-#### 링크 : https://www.notion.so/elice-track/ERD-8f8fdff109b746ad8d5750498ee1229c
+![2024-06-21_8 05 51](https://github.com/user-attachments/assets/5574a8df-cc71-4c31-a093-0b1884fc4fea)
+<br>
+![와이어 PNG](https://github.com/user-attachments/assets/be742637-8c70-4c2d-b0e3-2a8d4eb33329)
+
 
 <br>
 <br>
@@ -121,7 +124,6 @@ new / best 제품을 슬라이드를 통해 확인할 수 있습니다.<br>
 - 비밀번호: 8-15자리 숫자+문자 조합
 - 이메일: 선택사항, 이메일 형식 준수
 <br>
-![Untitled design_2](https://github.com/user-attachments/assets/9ddc9768-44fa-4dba-872b-cf9903a7499d)
 
 [상품 조회] <br>
 카테고리별 조회, 상품 분류별(인기 상품/신규 상품/품절 상품) 조회가 가능합니다.<br>
